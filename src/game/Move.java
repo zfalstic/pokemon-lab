@@ -26,6 +26,6 @@ public class Move {
 	}
 	
 	public String toString() {
-		return "Move name: " + this.getName() + ", Move damage: " + this.getDamage();
+		return "name: " + this.getName() + ", damage: " + this.getDamage();
 	}
  }
